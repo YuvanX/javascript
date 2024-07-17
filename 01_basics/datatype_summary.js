@@ -32,3 +32,10 @@ const myObj = {
 console.log(typeof places) //object
 console.log(typeof myObj); //object
 console.log(typeof myFunction); // function but also function object
+
+
+// **************** Stack and Heap memory *****************
+
+// Primitive => Stack ==> copy of value is given
+// Non Primitive => Heap. ==> reference is given
+
